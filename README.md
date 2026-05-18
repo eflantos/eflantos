@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eflantos
-- 👀  I’m interested in becoming a full stack developer and passionate about software development and creative problem solving.
-- 🌱 I’m currently learning JavaScript, Go.
+- 💻 Frontend Developer focused on building modern, clean, and user-friendly web interfaces.
+- 🚀 I work with JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Shadcn/UI.
+- 🌱 Currently improving myself in frontend architecture and full-stack development.
 - 📫 How to reach me: eflantos@gmail.com
-
