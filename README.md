@@ -1,33 +1,11 @@
-# eflantos
-### Frontend developer · React & Next.js
+# Hi, I'm eflantos
 
-I build clean, user-friendly web interfaces with JavaScript and TypeScript. My focus is turning application workflows into clear screens, reusable components, and practical user experiences.
+I'm a developer who enjoys turning ideas into useful digital experiences. I care about thoughtful design, clear interfaces, and making everyday interactions feel simple.
 
-[Get in touch](mailto:eflantos@gmail.com) · [Explore my contributions](https://github.com/efethecreator/ARD-Tech-Project/commits?author=eflantos)
+I learn by building, exploring different approaches, and improving along the way. This space is where I share my work and continue growing as a developer.
 
-## Toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| Languages | JavaScript · TypeScript |
-| Frontend | React · Next.js |
-| UI & styling | Tailwind CSS · shadcn/ui |
-
-## Featured contribution
-
-### [ARD-Tech Project](https://github.com/efethecreator/ARD-Tech-Project)
-A collaborative application for managing rights violation reports, applications, and legal cases, with separate interfaces for applicants, lawyers, and administrators.
-
-**My contributions:** frontend design updates, applicant form improvements, and updates to lawyer and case screens.
-
-**Project stack:** React · Node.js · Express · MongoDB
-
-[Browse the project](https://github.com/efethecreator/ARD-Tech-Project) · [View my commits](https://github.com/efethecreator/ARD-Tech-Project/commits?author=eflantos)
-
-## Currently developing
-
-Deepening my understanding of frontend architecture and full-stack development, with a focus on how interfaces connect to the application behind them.
+Always curious, always learning.
 
 ---
 
-Have a project or an idea to discuss? [eflantos@gmail.com](mailto:eflantos@gmail.com)
+[Let's connect](mailto:eflantos@gmail.com)
